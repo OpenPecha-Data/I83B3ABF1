@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ1013
   title: དྭགས་པོ་ཐར་རྒྱན
-  volume: ''
+  volume:
+    5105b34d51994594a5245aaf3ff0bf11:
+      image_group_id: I1CZ2109
+      title: Volume 1 of dwags po thar rgyan
+      volume_number: 1
+      total_pages: 250
   author: ''
+ebook_metadata:
+  title: དྭགས་པོ་ཐར་རྒྱན
+  author: ''
+  sku: P007920
+  cover: cover.jpg
+  layers:
+  - pagination
